@@ -23,7 +23,6 @@ public class Player
 
         // ensure initial value published
         PublishHealthChangeEvent();
-
     }
 
     public void AddHealth(float amount)
