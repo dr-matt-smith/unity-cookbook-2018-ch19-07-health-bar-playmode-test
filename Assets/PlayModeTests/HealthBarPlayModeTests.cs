@@ -6,7 +6,7 @@ using System.Collections;
 using UnityEngine.SceneManagement;
 
 [TestFixture]
-public class PlayerPlayModeTest
+public class HealthBarPlayModeTests
 {
     private Scene tempTestScene;
     // name of scene being tested by this class
